@@ -1,0 +1,20 @@
+{
+  "login_start": "Below are list of strings for login",
+  "login_et_user_email": "Enter user email",
+  "login_et_user_password": "Enter password",
+  "login_et_user_confirm_password": "retype password",
+  "login_et_user_name": "Enter user name",
+  "login_btn_forgot_password": "Forgot Password?",
+  "login_btn_sign_in": "Sign In",
+  "login_error_fill_fields": "Please fill in all fields",
+  "user_profile": "Choose your image profile",
+  "login_end": "------------------------------------------------------------------------------------",
+
+  "home_start": "Below are list of strings for home",
+  "home_tv_posts": "Posts",
+  "home_tv_error": "Error",
+  "home_tv_no_post_found": "No posts found",
+  "home_tv_choose_language": "Choose Language",
+  "home_end": "-------------------------------------------------------------------------------------"
+
+}
